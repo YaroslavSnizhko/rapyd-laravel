@@ -6,7 +6,7 @@
     "keywords": ["laravel", "crud", "rapyd", "administrator", "admin", "backend", "datatable", "form"],
     "require": {
         "php": ">=7.1",
-        "illuminate/support": "^7.15.0",
+        "illuminate/support": "^7.15",
         "laravelcollective/html": "~5.6",
         "intervention/image": "2.4.2",
         "zofe/burp": "2.*"
