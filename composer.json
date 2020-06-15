@@ -30,7 +30,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Zofe\\Rapyd\\RapydServiceProvider"
+                "Snizhko\\Rapyd\\RapydServiceProvider"
             ]
         }
     },
