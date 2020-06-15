@@ -3,12 +3,6 @@
     "description": "crud widgets for laravel, to make an admin in few lines of code",
     "homepage": "https://github.com/zofe/rapyd-laravel",
     "keywords": ["laravel", "crud", "rapyd", "administrator", "admin", "backend", "datatable", "form"],
-    "authors": [
-        {
-            "name": "zofe",
-            "email": "felice.ostuni@gmail.com"
-        }
-    ],
     "require": {
         "php": ">=7.1",
         "illuminate/support": "^7.15",
